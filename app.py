@@ -1,5 +1,6 @@
-def name(string):
-    return string
+def is_valid(s):
+    brackets = []
+    return s
 
 
-print(name("husan"))
+print(is_valid({}))
